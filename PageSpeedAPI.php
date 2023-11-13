@@ -8,7 +8,7 @@ Author URI: Ihre Autoren-URI
 */
 
 $API_KEY = "API KEY";
-$URL_TO_TEST = "https://www.gesundheitsregion-euregio.eu/";
+$URL_TO_TEST = "WEBSEITE";
 
 add_action('admin_menu', 'my_plugin_menu');
 add_action('admin_init', 'my_plugin_register_settings');
